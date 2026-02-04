@@ -7,6 +7,9 @@ system.debug('the sum of number is '+c);
 public static void sub(integer a,integer b){
 integer c=a-b;
 system.debug('the sum of number is '+c);
+
+system.debug('changes made');
 }
+
 
 }
